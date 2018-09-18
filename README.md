@@ -1,5 +1,5 @@
 # complex-numbers
-A homemade implimentation of complex numbers
+A homemade implimentation of complex numbers. This implimentation supports equallity check, addition, subtraction, conjugation and multiplication with both the homemade implimentation and the implimentation supported by python. 
 
 python test_complex.py - Will run all made test, if everything is successfull, a print will occur stating "All tests done. No errors! Hurrah!"
 
